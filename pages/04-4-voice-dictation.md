@@ -312,10 +312,6 @@ ChatGPT 입력창에서 마이크 아이콘을 선택합니다.
 * 업무에서는 음성 입력 전 익명화 기준을 정하고, 전송 전 민감 정보를 반드시 확인해야 합니다.
 * 음성 입력의 목적은 빠른 입력이 아니라, 더 풍부한 맥락을 제공해 더 나은 업무 산출물을 만드는 것입니다.
 
-## 13. 다음 강의
-
-[04-5. 음성 모드](04-5-voice-mode.md)
-
-## 14. 영상으로 복습하기
+## 13. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SD_-NsZ1x2M?si=g2IXaq1v1tIKMwXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
