@@ -3,7 +3,7 @@
 - [00. 책 소개](pages/getting-started.md)
 - [01. 강사 및 강의 소개](pages/01-chapter.md)
   - [01-1. 강사 소개](pages/01-1-instructor-intro.md)
-  - [01-2. ChatGPT 마스터 클래스 소개](pages/01-course-overview.md)
+  - [01-2. ChatGPT 마스터 클래스 소개](pages/01-2-course-overview.md)
 - [02. ChatGPT 시작하기](pages/02-chapter.md)
   - [02-1. 안녕? ChatGPT?](pages/02-1-hello-chatgpt.md)
   - [02-2. ChatGPT 시작하기: 회원가입과 플랜](pages/02-2-signup-and-plans.md)
