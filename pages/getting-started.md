@@ -21,4 +21,5 @@ ChatGPT 마스터 클래스에 오신 것을 환영합니다.
 - Excel, Power BI, 문서 작성 업무에 AI 를 활용하고 싶은 분
 - 생성형 AI 강의나 사내 교육을 준비하는 분
 
-https://youtu.be/ut5x55SFhC8?si=CPt1oYaVFuzzU5HB
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut5x55SFhC8?si=CPt1oYaVFuzzU5HB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
