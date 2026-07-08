@@ -1,4 +1,4 @@
-# 02-4. 나만의 ChatGPT 설정하기: 맞춤 설정
+[# 02-4. 나만의 ChatGPT 설정하기: 맞춤 설정
 
 ## 유튜브 영상
 
@@ -24,3 +24,4 @@
 - 정리 문장 1
 - 정리 문장 2
 - 정리 문장 3
+](https://youtu.be/Ur5oD6n3vms?si=GFQrkFsxqdhawFjm)
