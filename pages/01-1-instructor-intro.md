@@ -96,6 +96,12 @@ Excel, Power BI, AI 실무 활용 분야에서 국내외 다양한 기업을 대
 * ChatGPT 프롬프트와 실무 적용
 * 기업 생산성 향상을 위한 AI 활용 전략
 
+![최재완 강의 장면](assets/01-1-3_myphoto-class.png)
+![Uploading image.png…]()
+
+![최재완 강의 장면](assets/01-1-3_myphoto-class.png)
+
+
 ## 5. 이 강의를 만든 이유
 
 ### 5.1 우리의 일을 이해하고 AI 활용하기
