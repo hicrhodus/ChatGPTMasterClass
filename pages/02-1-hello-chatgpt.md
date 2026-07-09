@@ -197,6 +197,9 @@ ChatGPT 를 처음 배우는 직장인을 대상으로 10분짜리 설명을 하
 * 앱 설치 시에는 반드시 개발사가 **OpenAI** 인지 확인해야 합니다.
 * ChatGPT 를 배운다는 것은 하나의 서비스를 익히는 것을 넘어, AI 와 협업하는 방식을 배우는 일입니다.
 
+![02-1 요약](../assets/02-1-3_summary.jpg)
+
+
 ## 9. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/13QpKOrCTo0?si=D8A9A3FbD1P2LzFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
