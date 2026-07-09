@@ -26,4 +26,5 @@ Hic Rhodus Original
 제작: 최재완
 
 > 강의 요청, 출간 제안 등 모든 제안은 이메일로 연락주시면 감사하겠습니다.
-> hicrhodus@hicrhodus.com
+
+<pre><code>hicrhodus@hicrhodus.com</code></pre>
