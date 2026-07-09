@@ -1,4 +1,4 @@
-<img width="585" height="35" alt="image" src="https://github.com/user-attachments/assets/5c9120a4-91b5-43c3-934e-4c819e827e08" /># 03-1. 프롬프트
+# 03-1. 프롬프트
 
 ## 1. 이 강의에서 배울 내용
 
