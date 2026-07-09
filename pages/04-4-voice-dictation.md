@@ -736,6 +736,8 @@ ChatGPT 입력창에서 마이크 아이콘을 선택합니다.
 * 전문 용어가 자주 틀리면 맞춤형 지침에 교정 규칙을 등록할 수 있습니다.
 * 음성 입력의 진짜 목적은 빠른 입력이 아니라, 더 풍부한 맥락을 제공해 더 나은 업무 산출물을 만드는 것입니다.
 
+![음성 입력](../assets/04-4-6_summary.jpg)
+
 ## 21. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SD_-NsZ1x2M?si=bStR2YIPpPIpDDzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
