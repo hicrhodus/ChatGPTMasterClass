@@ -535,6 +535,8 @@ ChatGPT 가 회의 메모를 다음 형식으로 정리하는지 확인합니다
 * 반복 업무 프롬프트를 고정하면 개인 프롬프트 라이브러리처럼 사용할 수 있습니다.
 * ChatGPT 를 잘 쓰는 사람은 좋은 질문만 하는 사람이 아니라, 좋은 대화를 다시 찾고 재사용할 수 있게 관리하는 사람입니다.
 
+![04-1 요약](../assets/04-1-3_summary.jpg)
+
 ## 12. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eTP9uHjAJCg?si=5Jjd7A5PnRnZaM_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
