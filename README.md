@@ -6,6 +6,8 @@ OpenAI 공식 자료를 기반으로, ChatGPT 를 처음 시작할 때 반드시
 
 이 책은 유튜브 VOD 강의와 함께 학습할 수 있는 보조 교재입니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut5x55SFhC8?si=mBz8fGXFRgYQ3xZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 학습 대상
 
 - ChatGPT 를 처음 체계적으로 배우고 싶은 분
