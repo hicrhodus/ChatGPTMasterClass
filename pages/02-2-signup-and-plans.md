@@ -1,4 +1,4 @@
-<img width="585" height="35" alt="image" src="https://github.com/user-attachments/assets/5dd8d2fd-1970-4724-8525-ad6792e69aa7" /># 02-2. ChatGPT 시작하기: 회원가입과 플랜
+# 02-2. ChatGPT 시작하기: 회원가입과 플랜
 
 ## 1. 이 강의에서 배울 내용
 
