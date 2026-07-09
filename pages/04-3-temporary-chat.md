@@ -612,6 +612,8 @@ ChatGPT 가 해당 내용을 알 수 없다고 답하면 정상입니다.
 * 고객명, 계약 금액, 개인정보, 내부 기밀, 보안 등급 높은 문서는 임시 채팅에도 원문으로 입력하지 않습니다.
 * 임시 채팅은 완전 보안 금고가 아니라, 기록과 메모리 오염을 줄이는 프라이버시 샌드박스입니다.
 
+![임시 채팅](../assets/04-3-3_summary.jpg)
+
 ## 21. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0WiZNwHOAEs?si=mSsBrSCxCfKi-gR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
