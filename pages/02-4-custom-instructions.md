@@ -492,6 +492,12 @@ ChatGPT 는 사용자 정보를 바탕으로 개인화됩니다.
 * 비밀번호, 계좌번호, 회사 기밀, 고객 개인정보 같은 민감정보는 맞춤 설정에 입력하지 않습니다.
 * 맞춤 설정은 정답이 있는 것이 아니라, 사용 목적과 업무 환경에 맞게 조정하는 기능입니다.
 
+![02-4 요약1](../assets/02-4-3_summary-1.jpg)
+
+![02-4 요약2](../assets/02-4-4_summary-2.jpg)
+
+
+
 ## 14. 영상으로 학습하기
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/064DsQ3EzrE?si=tGKaBJxA-bY_I1BX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
