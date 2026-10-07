@@ -143,7 +143,7 @@ Excel, Power BI와 생성형 AI의 실무 활용을 연구하고 교육합니다
 
 ChatGPT 마스터 클래스의 전체 강의와 실습 자료는 아래에서 무료로 학습할 수 있습니다.
 
-https://hicrhodus.com/classes/305648
+https://www.hicrhodus.com/classes/305648
 
 강의 요청, 기업 교육, 컨설팅과 콘텐츠 협업을 포함한 모든 문의는 **hicrhodus@hicrhodus.com**으로 보내 주세요.
 
