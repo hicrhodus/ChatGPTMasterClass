@@ -535,4 +535,3 @@ Excel, Power BI와 생성형 AI의 실무 활용을 연구하고 교육합니다
 <!-- 브런치 발행 시 아래 URL을 붙여 넣어 영상 임베드를 생성하고, 재생 여부를 확인한다. -->
 
 https://www.youtube.com/watch?v=3rOSCXxp-uQ
-
