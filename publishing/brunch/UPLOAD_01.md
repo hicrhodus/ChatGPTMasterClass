@@ -3,7 +3,7 @@
 ## 업로드 대상
 
 - 브런치북: 처음 시작하는 사람을 위한 ChatGPT 마스터 클래스
-- 발행 순번: 01
+- 발행 순번: 01 / 전체 29편
 - 제목: 엑셀 강사가 ChatGPT를 가르치게 된 이유
 - 원본 강의: 01-1 강사 소개
 - GitHub 원고: [01-why-an-excel-instructor-teaches-chatgpt.md](01-why-an-excel-instructor-teaches-chatgpt.md)
