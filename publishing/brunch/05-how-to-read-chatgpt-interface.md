@@ -1,4 +1,6 @@
-# ChatGPT 화면을 읽는 법
+# 05. ChatGPT 화면을 읽는 법
+
+> 화면의 구조를 알면 ChatGPT를 훨씬 빠르게 익힐 수 있습니다
 
 ## 이 글에서 다룰 내용
 
@@ -400,4 +402,3 @@ Excel, Power BI와 생성형 AI의 실무 활용을 연구하고 교육합니다
 <!-- 브런치 발행 시 아래 URL을 붙여 넣어 영상 임베드를 생성하고, 재생 여부를 확인한다. -->
 
 https://www.youtube.com/watch?v=Ynv9UWgBV7c
-
